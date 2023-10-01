@@ -1,2 +1,2 @@
 # PARAAD
-PARAAD Architecture Pythin code
+PARAAD Architecture Python code
